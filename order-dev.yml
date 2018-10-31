@@ -7,11 +7,10 @@ spring:
     username: root
     password: root
 
-  jpa:
-    show-sql: true
+ 
 
 env:
   dev11111111
 girl:
   name: lily
-  age: 15
+  age: 11
