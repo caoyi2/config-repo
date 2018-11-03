@@ -4,7 +4,7 @@ zuul:
     myProduct:
       path: /myProduct/**
       serviceId: product
-      sensitiveHeaders:
+      #sensitiveHeaders:
     #简洁的写法
     #product: /myProduct/**
   ignored-patterns:
