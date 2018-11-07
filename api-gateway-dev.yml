@@ -7,8 +7,8 @@ zuul:
       #sensitiveHeaders:
     #简洁的写法
     #product: /myProduct/**
-  ignored-patterns:
-    -/**/product/listForOrder
+  #ignored-patterns:
+    #-/**/product/listForOrder
 
 management:
   security:
