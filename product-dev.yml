@@ -1,4 +1,6 @@
 spring:
+  server:
+    port: 8098
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/test?characterEncoding=utf-8&useSSL=false
