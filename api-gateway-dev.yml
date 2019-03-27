@@ -2,7 +2,7 @@ zuul:
   routes:
     product: /myProduct/**
   ignored-patterns:
-    - /product/product/listForOrder
+    /product/product/listForOrder
 
 #zuul:
   #routes:
