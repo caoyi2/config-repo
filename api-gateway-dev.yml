@@ -18,4 +18,4 @@
 
 ribbon:
   ConnectTimeout: 600
-  ReadTimeout: 600
+  ReadTimeout: 3000
