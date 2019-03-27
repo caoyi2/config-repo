@@ -1,3 +1,9 @@
+zuul:
+  routes:
+    myProduct:
+      path: /myProduct/**
+      serviceId: product
+
 #zuul:
   #routes:
     #/myProduct/product/list  ->  /product/product/list
