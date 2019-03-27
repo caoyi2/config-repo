@@ -1,6 +1,8 @@
 zuul:
   routes:
     product: /myProduct/**
+  ignored-patterns:
+    -/**/product/listForOrder
 
 #zuul:
   #routes:
