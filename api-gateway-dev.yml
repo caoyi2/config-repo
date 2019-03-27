@@ -25,3 +25,6 @@ zuul:
 ribbon:
   ConnectTimeout: 6000
   ReadTimeout: 30000
+management:
+  security:
+    enabled: false
