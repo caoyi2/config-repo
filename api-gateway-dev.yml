@@ -1,5 +1,5 @@
-zuul:
-  routes:
+#zuul:
+  #routes:
     #/myProduct/product/list  ->  /product/product/list
     #myProduct:
       #path: /myProduct/**
@@ -10,8 +10,8 @@ zuul:
   #ignored-patterns:
     #-/**/product/listForOrder
 
-management:
-  security:
-    enabled: false
+#management:
+  #security:
+    #enabled: false
 # 全部服务忽略敏感头,  都可以传递Cookie
-  sensitive-headers:
+  #sensitive-headers:
