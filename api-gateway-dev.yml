@@ -17,5 +17,5 @@
   #sensitive-headers:
 
 ribbon:
-  ConnectTimeout: 6000
-  ReadTimeout: 6000
+  ConnectTimeout: 600
+  ReadTimeout: 600
