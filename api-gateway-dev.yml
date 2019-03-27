@@ -23,5 +23,5 @@ zuul:
   #sensitive-headers:
 
 ribbon:
-  ConnectTimeout: 600
-  ReadTimeout: 3000
+  ConnectTimeout: 6000
+  ReadTimeout: 30000
