@@ -17,3 +17,5 @@ spring:
   girl:
     name: lili
     age: 25
+  server:
+    port: 8087
